@@ -5,3 +5,5 @@ HI Vineet here,
 In this web appIhave used random forest method to predict employee turnover as it provided the most accuracy for the dataset used.
 
 I have used streamlit to create a dashboard and used graphs to depict trends in our data. 
+
+Hope you like this project
